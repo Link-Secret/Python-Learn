@@ -35,4 +35,5 @@ while i < 3:
 i = 0
 while i < 1:
     print(i)
+    print(i)
     i -= 1
