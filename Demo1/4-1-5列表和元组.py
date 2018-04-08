@@ -49,7 +49,13 @@ print(L[1][1])
 print(L[2][2])
 
 
+print(L + ['test1','test2']);
+print(L + [['test1','test2']]);
+
 
 # 总结：
 #   有序集合list classmates['a','b','c']        取出来 classmates[1]
 #   元组tuple    l('a','b','c')                       l[1]
+# set   {'1','2'}                                   无序
+# dict 字典  {key:value,key2:value2}                 无序，通过key访问，key必须为不可变的，和元组一样
+
