@@ -15,7 +15,6 @@ print(L)
 print([x*x for x in range(1,11)])
 
 
-
 # 请修改列表生成式，通过添加if语句保证列表生成式能正确地执行：
 
 # -*- coding: utf-8 -*-
