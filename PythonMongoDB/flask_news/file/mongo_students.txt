@@ -1,0 +1,19 @@
+db.students.insertMany(
+   [
+     { name: "bob", age: 16, sex: "male", grade: 95},
+     { name: "ahn", age: 18, sex: "female", grade: 45},
+     { name: "xi", age: 15, sex: "male", grade: 75},
+     { name: "bob1", age: 16, sex: "male", grade: 95},
+     { name: "ahn1", age: 18, sex: "male", grade: 45},
+     { name: "xi1", age: 15, sex: "female", grade: 55},
+     { name: "bob2", age: 16, sex: "female", grade: 95},
+     { name: "ahn2", age: 18, sex: "male", grade: 60},
+     { name: "xi2", age: 15, sex: "male", grade: 75},
+     { name: "bob3", age: 16, sex: "male", grade: 95},
+     { name: "ahn3", age: 18, sex: "female", grade: 45},
+     { name: "xi3", age: 15, sex: "male", grade: 85},
+     { name: "bob4", age: 16, sex: "female", grade: 95},
+     { name: "ahn4", age: 18, sex: "male", grade: 45},
+     { name: "xi4", age: 15, sex: "male", grade: 75}
+   ]
+)

@@ -1,0 +1,28 @@
+db.blog.insert(
+[
+    {
+        title:'first',x:11
+    },
+    {
+        title:'firstone',x:2
+    },
+    {
+        title:'标题',x:2,content:'内容'
+    },
+    {
+        title:'标题',x:2,content:'内容'
+    },
+    {
+        title:'标题',x:2,content:'内容'
+    },
+    {
+        title:'标题',x:2,content:'内容'
+    },
+    {
+        title:'标题',x:1,content:'内容'
+    },
+    {
+        title:'新的标题',content:'博客内容'
+    }
+]
+)
